@@ -1,0 +1,6 @@
+
+
+var y = ["Gautam"]
+var z = [...y,"Sharma"]
+
+console.log(z)
